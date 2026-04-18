@@ -45,7 +45,7 @@ The app auto-detects which CLIs you have installed. Only installed agents appear
 ### Install and Run
 
 ```bash
-git clone https://github.com/lalomorales22/penguin-office.git
+git clone https://github.com/penguagent/penguin-office.git
 cd penguin-office
 pnpm install
 pnpm dev
